@@ -6,6 +6,10 @@
 - Demonstrations of three interesting scikit-learn algorithms. You may choose these yourself, based on what is covered in class or otherwise. Note that the demonstrations are at your discretion – you may choose to have an overall spread of examples across the library or pick a particular part that you find interesting.
 - Appropriate plots and other visualisations to enhance your notebook for viewers.
 
+## Progress:
+27/10 - did some reorganisation. INcorporated some lecture stuff that will be useful. Decided (maybe prematurely!) to use the wine dataset. Need to start working through that.
+Also work through the tutorial in order to put across an overview of the package
+
 2. Include a Jupyter notebook called scipy-stats.ipynb that contains the following.
 
 - A clear and concise overview of the scipy.stats Python library.

@@ -1,4 +1,5 @@
 scipy.stats
 pandas
 scikit-learn
-Seaborn
+seaborn
+numpy
