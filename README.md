@@ -44,14 +44,9 @@ Once installed, or the appropriate python environment set up, you can run the ju
 
 ### the notebooks
 
-The scikit-learn begins with an overview of the package - its origins, uses, syntax, and a quick demonstration of the more basic features. I then introduce a dataset (wine) and use it to demononstrate 3 more complex algorithims - K-Nearest Neighbor, Logistic Regression and **???**.  
+The scikit-learn begins with an overview of the package - its origins, uses, syntax, and a quick demonstration of the more basic features. I then introduce a dataset (wine) and use it to demononstrate a few more complex algorithims.
 The scipy-stats notebook follows a similar pattern but, as per brief, focuses on a hypothesis test using ANOVA and the results.
 The notebooks once opened in jupyter are completely interactive so feel free to change any of the parameters to see how it affects the outcomes.
-
-<br>
-
-### conclusion
-???
 
 <br>
 
