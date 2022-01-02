@@ -5,11 +5,11 @@
 
 
 ---
-## Machine Learning and Statistics Assignment
+## Machine Learning and Statistics
 
 ## G.M.I.T. HDip in Data Analytics
 
-## Autumn/Winter 2021
+## Autumn/Winter 2021 Assignment
 ---
 
 <br>
@@ -43,6 +43,7 @@ The jupyter notebooks require a python environment with all of the listed packag
 
 Once installed, or the appropriate python environment set up, you can run the jupyter notebooks directly from `Terminal` (or whatever command line interface you are using). First you need to download the notebook locally, navigate to that location on Terminal, and then open the jupyter app by typing `jupyter lab`. The app will open in a browser window but runs on your local machine. To start you should click on the `kernal` menu and select `Restart Kernal and Run All`.
 
+Alternatively the notebooks can be viewed with `nbviewer` at the following link - https://nbviewer.org/github/Caoimhinv/Machine-Learning-Statistics-Assignment/tree/main/
 <br>
 
 ### the notebooks
