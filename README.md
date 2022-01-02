@@ -21,10 +21,13 @@ The brief for this assignment was to produce two jupyter notebooks giving an ove
 <br>
 
 ### contents of repositry
-This repositry contains the 2 jupyter notebooks:
+This repositry contains the following:
 - scikit-learn.ipynb
 - scipy-stats.ipynb
-It also contains this README.md, a requirements.txt file listing all of the required python packages, plus a .gitignore file.
+- README.md - this file
+- requirements.txt file containing a list of all of the required python packages
+- Data - folder containing data files used in the assignment
+- Images - folder containing images used in the assignment
 
 <br>
 
@@ -38,7 +41,7 @@ The jupyter notebooks require a python environment with all of the listed packag
 
 ### run
 
-Once installed, or the appropriate python environment set up, you can run the jupyter notebooks directly from Terminal (or whatever command line interface you are using). First you need to download the notebook locally, navigate to that location on Terminal, and then open the jupyter app by typing `jupyter lab`. The app will open in a browser window but runs on your local machine. To start you should click on the `kernal` menu and select `Restart Kernal and Run All`.
+Once installed, or the appropriate python environment set up, you can run the jupyter notebooks directly from `Terminal` (or whatever command line interface you are using). First you need to download the notebook locally, navigate to that location on Terminal, and then open the jupyter app by typing `jupyter lab`. The app will open in a browser window but runs on your local machine. To start you should click on the `kernal` menu and select `Restart Kernal and Run All`.
 
 <br>
 
@@ -56,4 +59,4 @@ A list of references can be found at the end of each notebook with further refer
 <br>
 
 ### contact
-caoimhinvallely@gmail.com
+*caoimhinvallely@gmail.com*

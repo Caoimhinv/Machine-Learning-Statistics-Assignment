@@ -3,3 +3,5 @@ pandas
 scikit-learn
 seaborn
 numpy
+statsmodels
+matplotlib.pyplot
